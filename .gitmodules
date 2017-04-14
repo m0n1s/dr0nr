@@ -1,0 +1,3 @@
+[submodule "src/esp"]
+	path = src/esp
+	url = https://github.com/m0n1s/dr0nr-esp.git
